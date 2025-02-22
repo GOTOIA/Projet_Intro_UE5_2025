@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.cycle_3_bxls_nl_2021-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/UnrealEngine_Project/Cycle_3_Bxls_NL_2021/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Cycle_3_Bxls_NL_2021-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
